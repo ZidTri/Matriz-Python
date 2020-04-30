@@ -18,7 +18,7 @@ for i in range (n):
 i=0
 j=-1
 
-while n>=0:
+while n>0:
     if k==1:
         if h==1:
             for t in range (n):                     #Rutina para correr filas a la derecha
